@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ComputerGeek5
 =====================================================================================================================================
 
-Software Engineer
------------------
-
 I am ComputerGeek5, a software engineer. I began my journey as a programmer back in 2020 where I began my bachelor studies in Computer Engineering at Epoka University, initially by playing around with beginner competitive programming problems. Ever since I have explored and studied various fields and practices in the software industry from Desktop Development to Object-Oriented Programming, Design Patterns & Principles, Data Structures, Web Development, Test-Driven Development, Functional Programming, Databases, Computer Networks, Software Engineering, DevOps, Cloud Providers, Agile, Linux, Cyber Security, Parallel Programming and I have used many tools and technologies along the way. I also have 2 years of professional experience working as a Backend Engineer and as a Technical Engineer.
 
 * 🌍  I'm based in Tirana, Albania
@@ -63,7 +60,5 @@ src="https://img.shields.io/github/followers/ComputerGeek5?logo=github&style=for
 <a href="http://www.github.com/ComputerGeek5"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ComputerGeek5&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ComputerGeek5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerGeek5&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
